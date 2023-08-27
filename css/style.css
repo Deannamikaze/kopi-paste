@@ -1,0 +1,309 @@
+
+
+.navbar {
+    margin-top: 10px;
+    /* background-color: #FAE499; */
+}
+
+
+.navbar-brand{
+    font-family: KronaOne-Regular;
+    font-size: 22px;
+    color: #8BD19E!important;
+    /* text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4); */
+}
+
+
+.nav-link {
+    margin-right: 20px;
+    font-size: 18px;
+    font-family: Poppins-Regular;
+    /* text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4); */
+}
+
+
+.reservation {
+    margin-top: 85px;
+}
+
+
+.col-5 {
+    margin-top: 40px;
+}
+
+
+.col-5 h2 {
+    margin-bottom: 50px;
+    font-family: KronaOne-Regular;
+    font-size: 48px;
+    color: #444444;
+}
+
+
+.col-5 p {
+    margin-bottom: 60px;
+    font-family: Poppins-Regular;
+    font-size: 18px;
+    color: #959595;
+}
+
+
+.col-5 img {
+    width: 90%;
+}
+
+
+.color-box {
+    position: relative;
+    right: 0;
+    top: 0;
+    background: #2C976D;
+    height: 137px;
+    width: 105px;
+    z-index: -1;
+    transform: translate(410px, -640px);
+}
+
+
+.color-circle {
+    position: relative;
+    right: 0;
+    top: 0;
+    border-radius: 100px;
+    background: #FAE499;
+    height: 142px;
+    width: 142px;
+    z-index: -1;
+    transform: translate(-640px, -750px);
+}
+
+.color-circle-2 {
+    position: relative;
+    right: 0;
+    top: 0;
+    border-radius: 100px;
+    background: #FAE499;
+    height: 94px;
+    width: 94px;
+    z-index: -1;
+    transform: translate(-50px, -325px);
+}
+
+
+.hijau {
+    background-color: #196046;
+}
+
+.button {
+    width: 200px;
+    font-family: KronaOne-Regular;
+    font-size: 20px;
+    text-decoration: none;
+    color:white;
+    padding: 15px 30px 15px 30px;
+}
+
+
+.whoweare {
+    margin-top: -200px;
+}
+
+
+.whoweare h3 {
+    font-family: KronaOne-Regular;
+    font-size: 24px;
+    color: #8BD19E;
+}
+
+
+.whoweare h4 {
+    margin-top: -20px;
+    font-family: KronaOne-Regular;
+    font-size: 36px;
+    color: #444444;
+}
+
+
+.bulat {
+    position: relative;
+    background-color: #2C976D;
+    height: 63px;
+    width: 63px;
+    border-radius: 100px;
+    transform: translate(575px, -45px);
+}
+
+.koma {
+    font-family: KronaOne-Regular;
+    color: #FAE499;
+    font-size: 30px;
+}
+
+
+.img1 {
+    width: 470px;
+    transform: translate(-215px, 0px);
+    margin-left: 365px;
+}
+
+
+.img2 {
+    width: 252px;
+    transform: translate(-185px, -168px);
+}
+
+
+.img3 {
+    width: 252px;
+    transform: translate(-160px, -168px);
+}
+
+
+.img4 {
+    width: 252px;
+    transform: translate(655px, -315px);
+}
+
+
+.img5 {
+    width: 252px;
+    transform: translate(680px, -315px);
+}
+
+
+.whoweare h2 {
+    margin-top: -225px;
+    font-family: KronaOne-Regular;
+    font-size: 34px;
+    color: white !important;
+    margin-left: 35px;
+}
+
+
+.whoweare h5 {
+    margin-top: -215px;
+    font-family: Poppins-Regular;
+    font-size: 18px;
+    color: white !important;
+    margin-left: -5px;
+}
+
+
+.footer {
+    margin-top: -500px;
+    background-color: #196046;
+    height: 900px;
+    width: 100%;
+}
+
+
+.color-circle-3 {
+    position: relative;
+    right: 0;
+    top: 0;
+    border-radius: 100%;
+    background: #258964;
+    height: 241px;
+    width: 241px;
+    transform: translate(-120px, -900px);
+}
+
+
+.meeting {
+    margin-top: -400px;
+    margin-left: 30px;
+}
+
+
+.meeting h5 {
+    font-family: KronaOne-Regular;
+    font-size: 34px;
+}
+
+
+.meeting p {
+    font-family: Poppins-Regular;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+
+.meeting .exp-1 {
+    margin-left: 65px;
+}
+
+
+.img6 {
+    width: 450px;
+    margin-top: -300px;
+    margin-bottom: 50px;
+    margin-left: -25px;
+}
+
+
+.testi {
+    height: 250px;
+    margin-top: 100px;
+}
+
+
+.testi .row h2 {
+    font-family: KronaOne-Regular;
+    font-size: 26px;
+    color: #8BD19E;
+}
+
+
+.testi .row h4 {
+    font-family: KronaOne-Regular;
+    font-size: 36px;
+    color: #444444;
+}
+
+
+.kartu .card-body {
+    background-color: #BCD2BD;
+    color: #444444;
+}
+
+
+/* .kartu-review {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+} */
+
+
+
+.kartu img {
+    width: 25%;
+    padding-right: 5px;
+}
+
+
+.kartu-testi h3 {
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+
+.kartu-testi h5 {
+    font-size: 16px;
+    margin-top: -5px;
+    padding-top: 11px;
+}
+
+
+.kartu-testi .card-body img {
+    width: 10%;
+}
+
+
+
+/* Mobile */
+
+
+@media screen and (max-width: 600px) {
+
+    
+}
