@@ -346,13 +346,13 @@
 
     .whoweare img {
         margin-top: 100px;
-        width: 100%;
+        width: 80%;
     }
     
     .whoweare h2 {
         font-size: 14px;
         color: #444444!important;
-        margin-top: 50px;
+        margin-top: 30px;
     }
 
     .whoweare p {
@@ -362,6 +362,41 @@
         margin-top: 20px;
     }
 
+    .menu h2 {
+        font-family: KronaOne-Regular;
+        font-size: 16px;
+        color: #444444;
+    }
+
+    .button-espresso-based {
+        font-family: KronaOne-Regular;
+        font-size: 16px;
+        text-decoration: none;
+        color:#444444;
+        padding: 10px 25px 10px 25px;
+        background-color: #E6E5E5;
+        margin-top: 50px;
+    }
+
+    .button-milk-based {
+        font-family: KronaOne-Regular;
+        font-size: 16px;
+        text-decoration: none;
+        color:#444444;
+        padding: 10px 25px 10px 25px;
+        background-color: #E6E5E5;
+        margin-top: 50px;
+    }
+    
+    .button-signature {
+        font-family: KronaOne-Regular;
+        font-size: 16px;
+        text-decoration: none;
+        color:#444444;
+        padding: 10px 25px 10px 25px;
+        background-color: #E6E5E5;
+        margin-top: 50px;
+    }
 
 
 
