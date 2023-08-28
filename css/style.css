@@ -332,4 +332,35 @@
         color:white;
         padding: 10px 25px 10px 25px;
     }
+
+    .color-box {
+        position: relative;
+        right: 0;
+        top: 0;
+        background: #2C976D;
+        height: 60px;
+        width: 50px;
+        z-index: -1;
+        transform: translate(138px, -230px);
+    }
+
+    .whoweare img {
+        margin-top: 100px;
+        width: 90%;
+    }
+    
+    .whoweare h2 {
+        font-size: 14px;
+        color: #444444!important;
+        margin-top: 50px;
+    }
+
+
+
+
+
+
+
+
+
 }
